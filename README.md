@@ -131,6 +131,8 @@ These R2 scores provide insights into how well the models fit the data. Lasso re
 
 These models provide a starting point for predicting property prices, and further optimization and fine-tuning can be explored to improve predictive accuracy.
 
+
+![Future](https://github.com/AnujPathekar/Images/blob/main/FutureAspect.jpg)
 ## <u>Further/Future Aspects</u>
 
 Certainly, here are some future/further aspects to consider for improving the model:
